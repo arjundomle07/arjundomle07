@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/arjundomle07/Hotel-Booking-Analysis--EDA](https://github.com/arjundomle07)
+- 👨‍💻 All of my projects are available at [https://github.com/arjundomle07/Hotel-Booking-Analysis--EDA](https://github.com/arjundomle07)](https://github.com/arjundomle07)
 
 - 📫 How to reach me **msdarjun07@gmail.com**
 
