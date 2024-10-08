@@ -5,7 +5,6 @@ I'm a passionate for **Data Analytics** with a proficiency in **SQL**, **Python*
 ## 🔧 Tools and Technologies:
 - **Programming Languages**: Python, SQL
 - **Data Analysis**: Power BI, MS Excel
-- **Cloud**: AWS, Azure
 - **Databases**: MySQL, Snowflake
 
 ## 🌱 What I'm Learning:
@@ -14,11 +13,11 @@ I'm a passionate for **Data Analytics** with a proficiency in **SQL**, **Python*
 - Cloud-based ETL pipelines.
 
 ## 📫 Connect with Me:
-- **LinkedIn**: https://www.linkedin.com/in/arjun-domle/![image](https://github.com/user-attachments/assets/bedbb85d-887a-4edb-af97-acd548ec428e)
+- **LinkedIn**: - [LinkedIn](https://www.linkedin.com/in/arjun-domle/![image](https://github.com/user-attachments/assets/c2ac55ff-9eaf-4068-98eb-295c778e7f16)
 - **Email**: arjundomle07@gmail.com
 
 ## 💼 Portfolio Projects:
-- **Business Insights 360**: [[Link to Project](#)](https://www.novypro.com/create_project/business-insights-360-power-bi-38)
+- **Business Insights 360**: 
 
 ## Fun Fact: 
 - I love learning about emerging technologies in data analytics and big data!
