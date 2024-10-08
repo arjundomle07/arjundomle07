@@ -13,7 +13,7 @@ I'm a passionate for **Data Analytics** with a proficiency in **SQL**, **Python*
 - Cloud-based ETL pipelines.
 
 ## 📫 Connect with Me:
-- **LinkedIn**: - [LinkedIn](https://www.linkedin.com/in/arjun-domle/![image](https://github.com/user-attachments/assets/c2ac55ff-9eaf-4068-98eb-295c778e7f16)
+- **LinkedIn**: - [LinkedIn](https://www.linkedin.com/in/arjun-domle/![image](https://github.com/user-attachments/assets/c2ac55ff-9eaf-4068-98eb-295c778e7f16))
 - **Email**: arjundomle07@gmail.com
 
 ## 💼 Portfolio Projects:
