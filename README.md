@@ -17,7 +17,8 @@ I'm a passionate for **Data Analytics** with a proficiency in **SQL**, **Python*
 - **Email**: arjundomle07@gmail.com
 
 ## 💼 Portfolio Projects:
-- **Business Insights 360**: 
+- **Business Insights 360**: [Project Link](https://mavenanalytics.io/project/20476![image](https://github.com/user-attachments/assets/5cd7b3ec-6f0b-48c3-ad04-20e89482270d)
+)
 
 ## Fun Fact: 
 - I love learning about emerging technologies in data analytics and big data!
