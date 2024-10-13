@@ -15,7 +15,7 @@ I'm a passionate for **Data Analytics** with a proficiency in **SQL**, **Python*
 
 ## 🌱 What I'm Learning:
 - Data Science and analytics
-- Advanced SQL and Snowflake Data Warehousing
+- Data Engineering
 - Cloud-based ETL pipelines.
 
 ## 💼 Portfolio Projects:
