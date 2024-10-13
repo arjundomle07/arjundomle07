@@ -6,11 +6,11 @@ I'm a passionate for **Data Analytics** with a proficiency in **SQL**, **Python*
 
 | **Core Skills & Tools**                                           | **Soft Skills**                          |
 |--------------------------------------------------------------------|------------------------------------------|
-| **Data Visualization:**| Power BI, Tableau, MS Excel               | Problem Solving                         |
-| **Programming:**| Python, HTML, CSS, JavaScript                    | Critical Thinking                       |
-| **Relational Databases:**| SQL, MySQL, PostgreSQL, Oracle           | Decision Making                         |
-| **Google Workspace:**| Docs, Sheets, Slides, Gmail, Colab           | Fluent Communication                    |
-| **Data Warehousing:**| Snowflake                                   | Team and Individual Contributor         |
+| **Data Visualization:** Power BI, Tableau, MS Excel               | Problem Solving                         |
+| **Programming:** Python, HTML, CSS, JavaScript                    | Critical Thinking                       |
+| **Relational Databases:** SQL, MySQL, PostgreSQL, Oracle           | Decision Making                         |
+| **Google Workspace:** Docs, Sheets, Slides, Gmail, Colab           | Fluent Communication                    |
+| **Data Warehousing:** Snowflake                                   | Team and Individual Contributor         |
 
 
 ## 🌱 What I'm Learning:
