@@ -12,10 +12,6 @@ I'm a passionate for **Data Analytics** with a proficiency in **SQL**, **Python*
 - Advanced SQL and Snowflake Data Warehousing
 - Cloud-based ETL pipelines.
 
-## 📫 Connect with Me:
-- **LinkedIn**: - [LinkedIn](https://www.linkedin.com/in/arjun-domle/![image])
-- **Email**: arjundomle07@gmail.com
-
 ## 💼 Portfolio Projects:
 - **Business Insights 360 - (Data Visualization):** [Project Link](https://mavenanalytics.io/project/20476![image])
 - **Hotel Booking Analysis - (Exploratory Data Analysis):** [Project Link](https://github.com/arjundomle07/Hotel-Booking-Analysis--EDA/blob/main/Hotel_Booking_Analysis_EDA_Submission.ipynb)
@@ -23,7 +19,7 @@ I'm a passionate for **Data Analytics** with a proficiency in **SQL**, **Python*
 - **Cardiovascular Risk Prediction - ML Classification:**[Project Link](https://github.com/arjundomle07/Cardiovascular-Risk-Prediction--Classification)
 - **Netflix Movies TV Show - Clustering_Unsupervised_ML:** [Project Link](https://github.com/arjundomle07/Netflix-movie-and-TV-show-Clustering-Unsupervised/blob/main/Netflix_movie_and_TV_show_Clustering_Unsupervised_ML.ipynb)
 
-## 💼 Certifications:
+## :medal_military: Certifications:
 - **AWS Certified Cloud Practitioner:** [Certification](https://www.credly.com/badges/368b1937-0909-40df-a8eb-b23d290cbecf)
 - **Full Stack Data Science Certification:** [Certification](https://verified.sertifier.com/en/verify/33434859186256/)
 - **Google's Generative AI Fundamentals:** [Certification](https://partner.cloudskillsboost.google/public_profiles/31cc682c-66c9-4080-9249-28ddd27cea02/badges/4869017![image])
@@ -31,6 +27,10 @@ I'm a passionate for **Data Analytics** with a proficiency in **SQL**, **Python*
 - **Data Analytics Essentials:** [Certification](https://www.credly.com/badges/a406e821-fa66-4fb8-9df1-57311442aa1f/linked_in_profile)
 - **Hacker Rank certified basic SQL Certificate:** [Certification](https://www.hackerrank.com/certificates/9c8f8a165116)
 
+## 📫 Connect with Me:
+- **LinkedIn**: - [LinkedIn](https://www.linkedin.com/in/arjun-domle/![image])
+- **Email**: arjundomle07@gmail.com
+  
 ## Fun Fact: 
 - I love learning about emerging technologies in data analytics and big data!
 
