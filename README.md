@@ -2,10 +2,16 @@
 
 I'm a passionate for **Data Analytics** with a proficiency in **SQL**, **Python**, **Power BI**, **MS Excel**, and **Google Workspace**. Currently, I am working as a **Scholar Trainee at Wipro** in the role of a **Network Engineer**, but I am dedicated to transitioning into the world of data analytics.
 
-## 🔧 Tools and Technologies:
-- **Programming Languages**: Python, SQL
-- **Data Analysis**: Power BI, MS Excel
-- **Databases**: MySQL, Snowflake
+## 🛠️ Skills Overview
+
+| **Core Skills & Tools**                                           | **Soft Skills**                          |
+|--------------------------------------------------------------------|------------------------------------------|
+| **Data Visualization:** Power BI, Tableau, MS Excel               | Problem Solving                         |
+| **Programming:** Python, HTML, CSS, JavaScript                    | Critical Thinking                       |
+| **Relational Databases:** SQL, MySQL, PostgreSQL, Oracle           | Decision Making                         |
+| **Google Workspace:** Docs, Sheets, Slides, Gmail, Colab           | Fluent Communication                    |
+| **Data Warehousing:** Snowflake                                   | Team and Individual Contributor         |
+
 
 ## 🌱 What I'm Learning:
 - Data Science and analytics
