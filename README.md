@@ -16,7 +16,7 @@ I'm a passionate for **Data Analytics** with a proficiency in **SQL**, **Python*
 ## 🌱 What I'm Learning:
 - Data Science and analytics
 - Data Engineering
-- Cloud-based ETL pipelines.
+- Generative AI
 
 ## 💼 Portfolio Projects:
 - **Business Insights 360 - (Data Visualization):** [Project Link](https://mavenanalytics.io/project/20476![image])
