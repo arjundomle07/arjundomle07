@@ -19,11 +19,16 @@ I'm a passionate for **Data Analytics** with a proficiency in **SQL**, **Python*
 - Generative AI
 
 ## 💼 Portfolio Projects:
-- **Business Insights 360 - (Data Visualization):** [Project Link](https://mavenanalytics.io/project/20476![image])
-- **Hotel Booking Analysis - (Exploratory Data Analysis):** [Project Link](https://github.com/arjundomle07/Hotel-Booking-Analysis--EDA/blob/main/Hotel_Booking_Analysis_EDA_Submission.ipynb)
-- **Retail Sales Prediction - ML Regression Analysis:** [Project Link](https://github.com/arjundomle07/Retail-Sales-Prediction--Regression-Project/blob/main/Retail_Sales_Prediction_Regression_Project.ipynb)
-- **Cardiovascular Risk Prediction - ML Classification:**[Project Link](https://github.com/arjundomle07/Cardiovascular-Risk-Prediction--Classification)
-- **Netflix Movies TV Show - Clustering_Unsupervised_ML:** [Project Link](https://github.com/arjundomle07/Netflix-movie-and-TV-show-Clustering-Unsupervised/blob/main/Netflix_movie_and_TV_show_Clustering_Unsupervised_ML.ipynb)
+| **Portfolio Projects**                     | **Description**                     | **Project Link**          |
+|--------------------------------------------|-------------------------------------|---------------------------|
+| Business Insights 360                      | Data Visualization                  | [Project Link](https://mavenanalytics.io/project/20476![image])        |
+| Hotel Booking Analysis                     | Exploratory Data Analysis           | [Project Link](https://github.com/arjundomle07/Hotel-Booking-Analysis--EDA/blob/main/Hotel_Booking_Analysis_EDA_Submission.ipynb)       |
+| Retail Sales Prediction                    | ML Regression Analysis              | [Project Link](https://github.com/arjundomle07/Retail-Sales-Prediction--Regression-Project/blob/main/Retail_Sales_Prediction_Regression_Project.ipynb)        |
+| Cardiovascular Risk Prediction              | ML Classification                   | [Project Link](https://github.com/arjundomle07/Cardiovascular-Risk-Prediction--Classification)      |
+| Netflix Movies TV Show                    | Clustering (Unsupervised ML)       | [Project Link](https://github.com/arjundomle07/Netflix-movie-and-TV-show-Clustering-Unsupervised/blob/main/Netflix_movie_and_TV_show_Clustering_Unsupervised_ML.ipynb)        |
+
+
+
 
 ## :medal_military: Certifications:
 - **AWS Certified Cloud Practitioner:** [Certification](https://www.credly.com/badges/368b1937-0909-40df-a8eb-b23d290cbecf)
