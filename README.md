@@ -13,10 +13,13 @@ I'm a passionate for **Data Analytics** with a proficiency in **SQL**, **Python*
 | **Data Warehousing:** Snowflake                                   | Team and Individual Contributor         |
 
 
+
 ## 🌱 What I'm Learning:
 - Data Science and analytics
 - Data Engineering
 - Generative AI
+
+
 
 ## 💼 Portfolio Projects:
 | **Portfolio Projects**                     | **Description**                     | **Project Link**          |
@@ -26,7 +29,6 @@ I'm a passionate for **Data Analytics** with a proficiency in **SQL**, **Python*
 | Retail Sales Prediction                    | ML Regression Analysis              | [Project Link](https://github.com/arjundomle07/Retail-Sales-Prediction--Regression-Project/blob/main/Retail_Sales_Prediction_Regression_Project.ipynb)        |
 | Cardiovascular Risk Prediction              | ML Classification                   | [Project Link](https://github.com/arjundomle07/Cardiovascular-Risk-Prediction--Classification)      |
 | Netflix Movies TV Show                    | Clustering (Unsupervised ML)       | [Project Link](https://github.com/arjundomle07/Netflix-movie-and-TV-show-Clustering-Unsupervised/blob/main/Netflix_movie_and_TV_show_Clustering_Unsupervised_ML.ipynb)        |
-
 
 
 
@@ -41,10 +43,13 @@ I'm a passionate for **Data Analytics** with a proficiency in **SQL**, **Python*
 | HackerRank Certified Basic SQL Certificate                                        | [Certification](https://www.hackerrank.com/certificates/9c8f8a165116)                               |
 
 
+
 ## 📫 Connect with Me:
 - **LinkedIn**: - [LinkedIn](https://www.linkedin.com/in/arjun-domle/![image])
 - **Email**: arjundomle07@gmail.com
+
+
   
-## Fun Fact: 
+## Nerd Face (🤓) 
 - I love learning about emerging technologies in data analytics and big data!
 
