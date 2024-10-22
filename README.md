@@ -43,6 +43,7 @@ I am currently participating in the **Google Cloud Partner Skill Badge Challenge
 | Tata - Data Visualization: Empowering Business with Effective Insights Job Simulation | [Certification](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata_uv6P3wPS6LfKbaB67_1695921692227_completion_certificate.pdf)                               |
 | Data Analytics Essentials                                                          | [Certification](https://www.credly.com/badges/a406e821-fa66-4fb8-9df1-57311442aa1f/linked_in_profile)                               |
 | HackerRank Certified Basic SQL Certificate                                        | [Certification](https://www.hackerrank.com/certificates/9c8f8a165116)                               |
+| Google Cloud Skill Badge Profile | [Profile](https://partner.cloudskillsboost.google/public_profiles/31cc682c-66c9-4080-9249-28ddd27cea02) |
 
 
 
