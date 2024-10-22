@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Arjun
 
-I'm a passionate for **Data Analytics** with a proficiency in **SQL**, **Python**, **Power BI**, **MS Excel**, and **Google Workspace**. Currently, I am working as a **Scholar Trainee at Wipro** in the role of a **Network Engineer**, but I am dedicated to transitioning into the world of data analytics.
+I'm a passionate for **Data Analytics** with a proficiency in **SQL**, **Python**, **Power BI**, **MS Excel**, and **Google Workspace**. Currently, I am working as a **Scholar Trainee at Wipro**, but I am dedicated to transitioning into the world of data analytics.
 
 ## 🛠️ Skills Overview
 
@@ -50,6 +50,7 @@ I'm a passionate for **Data Analytics** with a proficiency in **SQL**, **Python*
 
 
   
-## Nerd Face (🤓) 
+## Facts (🤓) 
 - I love learning about emerging technologies in data analytics and big data!
+- Participated in **Kho-Kho** Division Level sports compitition.
 
