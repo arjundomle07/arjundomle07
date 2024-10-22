@@ -3,6 +3,7 @@
 I'm a passionate for **Data Analytics** with a proficiency in **SQL**, **Python**, **Power BI**, **MS Excel**, and **Google Workspace**. Currently, I am working as a **Scholar Trainee at Wipro**, and I am dedicated to transitioning into the world of data analytics.
 
 I am currently participating in the **Google Cloud Partner Skill Badge Challenge** partner with **Wipro's Cloud and AI Acadamy learning initiative**, where I am gaining hands-on experience and deepening my expertise in Google Cloud technologies through real-world projects and assessments.
+[Google Skill Badge Profile](https://partner.cloudskillsboost.google/public_profiles/31cc682c-66c9-4080-9249-28ddd27cea02)
 
 ## 🛠️ Skills Overview
 
