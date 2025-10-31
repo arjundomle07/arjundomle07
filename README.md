@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Arjun
 
-I'm a passionate for **Data Analytics** with a proficiency in **SQL**, **Python**, **Power BI**, **MS Excel**, and **Google Workspace**. Currently, I am working as a **Scholar Trainee at Wipro**, and I am dedicated to transitioning into the world of data analytics.
+I'm a passionate for **Data Engineering** with a proficiency in **SQL**, **Python**, **Power BI**, **Synapse Analytics**, **ADF**, **DataBricks** and **Spark**. Currently, I am working as a **Scholar Trainee at Wipro having project role as Azure Data Engineer**.
 
 I am currently participating in the **Google Cloud Partner Skill Badge Challenge** partner with **Wipro's Cloud and AI Acadamy learning initiative**, where I am gaining hands-on experience and deepening my expertise in Google Cloud technologies through real-world projects and assessments. **[Google Skill Badge Profile](https://partner.cloudskillsboost.google/public_profiles/31cc682c-66c9-4080-9249-28ddd27cea02)**
 
@@ -8,10 +8,10 @@ I am currently participating in the **Google Cloud Partner Skill Badge Challenge
 
 | **Core Skills & Tools**                                           | **Soft Skills**                          |
 |--------------------------------------------------------------------|------------------------------------------|
-| **Data Visualization:** Power BI, Tableau, MS Excel               | Problem Solving                         |
-| **Programming:** Python, HTML, CSS, JavaScript                    | Critical Thinking                       |
-| **Relational Databases:** SQL, MySQL, PostgreSQL, Oracle           | Decision Making                         |
-| **Google Workspace:** Docs, Sheets, Slides, Gmail, Colab           | Fluent Communication                    |
+| **Data Visualization:** Power BI               | Problem Solving                         |
+| **Programming:** Python, Spark, PySpark                    | Critical Thinking                       |
+| **Relational Databases:** SQL, MySQL, MS SQL Server          | Decision Making                         |
+| **Azure Cloud:** ADF, Synapse Analytics, Data Flow           | Fluent Communication                    |
 | **Data Warehousing:** Snowflake                                   | Team and Individual Contributor         |
 
 
