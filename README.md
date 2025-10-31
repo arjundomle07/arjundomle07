@@ -11,7 +11,7 @@ I am currently participating in the **Google Cloud Partner Skill Badge Challenge
 | **Data Visualization:** Power BI               | Problem Solving                         |
 | **Programming:** Python, Spark, PySpark                    | Critical Thinking                       |
 | **Relational Databases:** SQL, MySQL, MS SQL Server          | Decision Making                         |
-| **Azure Cloud:** ADF, Synapse Analytics, Data Flow           | Fluent Communication                    |
+| **Azure Cloud:** ADF, Synapse Analytics, Azure DataBricks        | Fluent Communication                    |
 | **Data Warehousing:** Snowflake                                   | Team and Individual Contributor         |
 
 
