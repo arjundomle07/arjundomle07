@@ -2,7 +2,7 @@
 
 I'm a passionate for **Data Engineering** with a proficiency in **SQL**, **Python**, **Power BI**, **Synapse Analytics**, **ADF**, **DataBricks** and **Spark**. Currently, I am working as a **Scholar Trainee at Wipro having project role as Azure Data Engineer**.
 
-I am currently participating in the **Google Cloud Partner Skill Badge Challenge** partner with **Wipro's Cloud and AI Acadamy learning initiative**, where I am gaining hands-on experience and deepening my expertise in Google Cloud technologies through real-world projects and assessments. **[Google Skill Badge Profile](https://partner.cloudskillsboost.google/public_profiles/31cc682c-66c9-4080-9249-28ddd27cea02)**
+**Forever debugging, always learning || I build data pipelines so others can build decisions.**
 
 ## 🛠️ Skills Overview
 
