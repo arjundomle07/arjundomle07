@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Arjun
 
-I'm a passionate for **Data Engineering** with a proficiency in **SQL**, **Python**, **Power BI**, **Synapse Analytics**, **ADF**, **DataBricks** and **Spark**. Currently, I am working as a **Azure Data Engineer at Wipro**.
+I'm a passionate for **Data Engineering** with a proficiency in **SQL**, **Python**, **Power BI**, **Synapse Analytics**, **ADF**, **DataBricks** and **Spark**. Currently, I am working as a **Power BI Developer at Wipro**.
 
 **Forever debugging, always learning || I build data pipelines so others can build decisions.**
 
