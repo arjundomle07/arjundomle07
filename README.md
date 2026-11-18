@@ -6,9 +6,9 @@ I'm a data professional focused on building reliable data pipelines, developing 
 
 Currently working as a **Azure Data Engineer at Wipro**, with a growing focus on big data technologies, and modern data platforms.
 
-My goal: Build scalable data solutions and continuously improve my engineering skills through hands-on projects.\
+My goal: Build scalable data solutions and continuously improve my engineering skills through hands-on projects.
 
-
+---
 
 **Forever debugging, always learning || I build data pipelines so others can build decisions.**
 
