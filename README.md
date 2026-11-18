@@ -1,29 +1,39 @@
 # Hi there 👋, I'm Arjun
 
-I'm a passionate for **Data Engineering** with a proficiency in **SQL**, **Python**, **Power BI**, **Synapse Analytics**, **ADF**, **DataBricks** and **Spark**. Currently, I am working as a **Power BI Developer at Wipro**.
+**Azure Data Engineer | SQL | Python | PySpark | Azure | Snowflake**
+
+I'm a data professional focused on building reliable data pipelines, developing ETL solutions, and transforming raw data into meaningful insights.
+
+Currently working as a **Azure Data Engineer at Wipro**, with a growing focus on big data technologies, and modern data platforms.
+
+My goal: Build scalable data solutions and continuously improve my engineering skills through hands-on projects.
+
+
 
 **Forever debugging, always learning || I build data pipelines so others can build decisions.**
 
 ## 🛠️ Skills Overview
 
-| **Core Skills & Tools**                                           | **Soft Skills**                          |
+| **Category**                                           | **Technologies**                          |
 |--------------------------------------------------------------------|------------------------------------------|
-| **Data Visualization:** Power BI               | Problem Solving                         |
-| **Programming:** Python, Spark, PySpark                    | Critical Thinking                       |
-| **Relational Databases:** SQL, MySQL, MS SQL Server          | Decision Making                         |
-| **Azure Cloud:** ADF, Synapse Analytics, Azure DataBricks        | Fluent Communication                    |
-| **Data Warehousing:** Snowflake                                   | Team and Individual Contributor         |
+| **Programming:**               | Python, SQL                     |
+| **Big Data:**                   | Apache Spark, PySpark                      |
+| **Microsoft Azure:**         | Azure Data Factory, Synapse Analytics, Azure DataBricks                       |
+| **Data Warehousing:**         | Snowflake, MySQL, SQL Server                   |
+| **Analytics & BI:**                                   | Power BI         |
+| **Other**                                   | Git, GitHub         |
+
 
 
 
 ## 🌱 What I'm Learning:
 - Data Science and analytics
 - Data Engineering
-- Generative AI
+- Agentic AI and Generative AI
 
 
 
-## 💼 Portfolio Projects:
+## 💼 Featured Projects:
 | **Portfolio Projects**                     | **Description**                     | **Project Link**          |
 |--------------------------------------------|-------------------------------------|---------------------------|
 | Business Insights 360                      | Data Visualization                  | [Project Link](https://mavenanalytics.io/project/20476![image])        |
@@ -44,6 +54,12 @@ I'm a passionate for **Data Engineering** with a proficiency in **SQL**, **Pytho
 | Data Analytics Essentials                                                          | [Certification](https://www.credly.com/badges/a406e821-fa66-4fb8-9df1-57311442aa1f/linked_in_profile)                               |
 | HackerRank Certified Basic SQL Certificate                                        | [Certification](https://www.hackerrank.com/certificates/9c8f8a165116)                               |
 | Google Cloud Skill Badge Profile | [Profile](https://partner.cloudskillsboost.google/public_profiles/31cc682c-66c9-4080-9249-28ddd27cea02) |
+
+
+
+📊 My Engineering Journey
+
+I believe in learning by building. I regularly practice SQL, Python, ETL Pipelines and PySpark while developing practical data engineering projects.
 
 
 
